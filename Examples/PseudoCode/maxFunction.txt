@@ -1,0 +1,5 @@
+function max(x, y)
+	max = x
+	if y is greater than x
+		max = y
+	return max

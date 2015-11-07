@@ -1,0 +1,10 @@
+for(i = 0; i < 100; i = i + 1)
+	printNum = 1
+	if i is divisible by 3
+		print "fizz"
+		printNum = 0
+	if i is divisible by 5
+		print "buzz"
+		printNum = 0
+	if printNum equals 1
+		print i

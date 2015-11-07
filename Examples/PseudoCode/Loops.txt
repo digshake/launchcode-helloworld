@@ -1,0 +1,15 @@
+for (i=0; i < 100; i = i + 1)
+	print i
+
+
+//a second way:
+i = 0;
+while i is less than 100
+	print i
+	i = i + 1
+
+
+
+
+
+

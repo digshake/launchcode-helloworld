@@ -1,0 +1,12 @@
+burritosPerDay = 2
+numberOfDays = 7
+burritosPerWeek = burritosPerDay * numberOfDays
+
+print "Burritos eaten per week: "
+print burritosPerWeek
+		
+numberOfDays = 30
+burritosPerMonth = numberOfDays * burritosPerDay
+
+print "Burritos eaten per month: ");
+print burritosPerMonth

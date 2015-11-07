@@ -1,0 +1,13 @@
+if x is bigger than y
+	max = x;
+	print "x is bigger"
+else
+	max = y;
+	if x is equal to y
+		print "They are the same"
+	else
+		print "y is bigger"
+
+	print "max is "
+	print max
+
