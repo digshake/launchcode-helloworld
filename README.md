@@ -7,51 +7,51 @@ Slides, examples, and exercises for LaunchCode's Hello, World! course.
 
 ## Day Two: Pseudocode
 
-* [slides/pseudocode.pdf](Slides)
+* [Slides](slides/pseudocode.pdf)
 
 * Examples:
 
-  * [Examples/PseudoCode/Variables.txt](Variables)  
-  * [Examples/PseudoCode/AbsoluteValue.txt](Absolute value)
-  * [Examples/PseudoCode/MaxWithEquals.txt](Max finder with equals)
-  * [Examples/PseudoCode/MaxNested.txt](Max finder with nested ifs)
-  * [Examples/PseudoCode/Loops.txt](Loops)
-  * [Examples/PseudoCode/mathFunction.txt](Math function)
-  * [Examples/PseudoCode/maxFunction.txt](Max function)
+  * [Variables](Examples/PseudoCode/Variables.txt)
+  * [Absolute value](Examples/PseudoCode/AbsoluteValue.txt)
+  * [Max finder with equals](Examples/PseudoCode/MaxWithEquals.txt)
+  * [Max finder with nested ifs](Examples/PseudoCode/MaxNested.txt)
+  * [Loops](Examples/PseudoCode/Loops.txt)
+  * [Math function](Examples/PseudoCode/mathFunction.txt)
+  * [Max function](Examples/PseudoCode/maxFunction.txt)
 
 * Exercises:
 
-  * [Exercises/pseudocode/story.txt](Telling a story with variables)
-  * [Exercises/pseudocode/swap.txt](Swapping values)
-  * [Exercises/pseudocode/loopexercises.txt](Loop exercises)
-  * [Exercises/pseudocode/fibonacci.txt](Fibonacci sequence)
-  * [Exercises/pseudocode/fizzbuzz.txt](FizzBuzz)
-  * [Exercises/pseudocode/fibonaccifunc.txt](Fibonacci as a function)
-  * [Exercises/pseudocode/mult.txt](Multiplication function)
+  * [Telling a story with variables](Exercises/pseudocode/story.txt)
+  * [Swapping values](Exercises/pseudocode/swap.txt)
+  * [Loop exercises](Exercises/pseudocode/loopexercises.txt)
+  * [Fibonacci sequence](Exercises/pseudocode/fibonacci.txt)
+  * [FizzBuzz](Exercises/pseudocode/fizzbuzz.txt)
+  * [Fibonacci as a function](Exercises/pseudocode/fibonaccifunc.txt)
+  * [Multiplication function](Exercises/pseudocode/mult.txt)
   
 ## Day Three: Javascript
 
-* All examples and exercises can be run using [https://jsfiddle.net/](JSFiddle)
+* All examples and exercises can be run using [JSFiddle](https://jsfiddle.net/)
 
-* [slides/javascript.pdf](Slides)
+* [Slides](slides/javascript.pdf)
 
 * Examples:
 
-  * [Examples/JavaScript/Variables.js](Variables)  
-  * [Examples/JavaScript/Booleans.js](Variables)  
-  * [Examples/JavaScript/AbsoluteValue.js](Absolute value)
-  * [Examples/JavaScript/MaxWithEquals.js](Max finder with equals)
-  * [Examples/JavaScript/MaxNested.js](Max finder with nested ifs)
-  * [Examples/JavaScript/Loops.js](Loops)
-  * [Examples/JavaScript/mathFunction.js](Math function)
-  * [Examples/JavaScript/maxFunction.js](Max function)
+  * [Variables](Examples/JavaScript/Variables.js) 
+  * [Booleans](Examples/JavaScript/Booleans.js)
+  * [Absolute value](Examples/JavaScript/AbsoluteValue.js)
+  * [Max finder with equals](Examples/JavaScript/MaxWithEquals.js)
+  * [Max finder with nested ifs](Examples/JavaScript/MaxNested.js)
+  * [Loops](Examples/JavaScript/Loops.js)
+  * [Math function](Examples/JavaScript/mathFunction.js)
+  * [Max function](Examples/JavaScript/maxFunction.js)
 
 * Exercises:
 
-  * [Exercises/JavaScript/story.js](Telling a story with variables)
-  * [Exercises/JavaScript/swap.js](Swapping values)
-  * [Exercises/JavaScript/loopexercises.js](Loop exercises)
-  * [Exercises/JavaScript/fibonacci.js](Fibonacci sequence)
-  * [Exercises/JavaScript/fizzbuzz.js](FizzBuzz)
-  * [Exercises/JavaScript/fibonaccifunc.js](Fibonacci as a function)
-  * [Exercises/JavaScript/mult.js](Multiplication function)
+  * [Telling a story with variables](Exercises/JavaScript/story.js)
+  * [Swapping values](Exercises/JavaScript/swap.js)
+  * [Loop exercises](Exercises/JavaScript/loopexercises.js)
+  * [Fibonacci sequence](Exercises/JavaScript/fibonacci.js)
+  * [FizzBuzz](Exercises/JavaScript/fizzbuzz.js)
+  * [Fibonacci as a function](Exercises/JavaScript/fibonaccifunc.js)
+  * [Multiplication function](Exercises/JavaScript/mult.js)
