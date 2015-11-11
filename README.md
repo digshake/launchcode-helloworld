@@ -45,7 +45,7 @@ Slides, examples, and exercises for LaunchCode's Hello, World! course.
   * [Max finder with equals](Examples/JavaScript/MaxWithEquals.js)
   * [Max finder with nested ifs](Examples/JavaScript/MaxNested.js)
   * [Loops](Examples/JavaScript/Loops.js)
-  * [Math function](Examples/JavaScript/mathFunction.js)
+  * [Math function](Examples/JavaScript/mathfunction.js)
   * [Max function](Examples/JavaScript/maxFunction.js)
 
 <!--* Exercises:
