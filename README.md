@@ -5,6 +5,8 @@ Slides, examples, and exercises for LaunchCode's Hello, World! course.
 
 ## Day One:
 
+* [Slides](slides/HelloWorld1.pdf)
+
 ## Day Two: Pseudocode
 
 * [Slides](slides/pseudocode.pdf)
