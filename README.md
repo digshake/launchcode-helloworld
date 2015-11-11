@@ -5,11 +5,11 @@ Slides, examples, and exercises for LaunchCode's Hello, World! course.
 
 ## Day One:
 
-* [Slides](slides/HelloWorld1.pdf)
+* [Slides](Slides/HelloWorld1.pdf)
 
 ## Day Two: Pseudocode
 
-* [Slides](slides/pseudocode.pdf)
+* [Slides](Slides/pseudocode.pdf)
 
 * Examples:
 
@@ -35,7 +35,7 @@ Slides, examples, and exercises for LaunchCode's Hello, World! course.
 
 * All examples and exercises can be run using [JSFiddle](https://jsfiddle.net/)
 
-* [Slides](slides/javascript.pdf)
+* [Slides](Slides/javascript.pdf)
 
 * Examples:
 
