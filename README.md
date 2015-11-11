@@ -19,7 +19,7 @@ Slides, examples, and exercises for LaunchCode's Hello, World! course.
   * [Math function](Examples/PseudoCode/mathFunction.txt)
   * [Max function](Examples/PseudoCode/maxFunction.txt)
 
-* Exercises:
+<!--* Exercises:
 
   * [Telling a story with variables](Exercises/pseudocode/story.txt)
   * [Swapping values](Exercises/pseudocode/swap.txt)
@@ -27,7 +27,7 @@ Slides, examples, and exercises for LaunchCode's Hello, World! course.
   * [Fibonacci sequence](Exercises/pseudocode/fibonacci.txt)
   * [FizzBuzz](Exercises/pseudocode/fizzbuzz.txt)
   * [Fibonacci as a function](Exercises/pseudocode/fibonaccifunc.txt)
-  * [Multiplication function](Exercises/pseudocode/mult.txt)
+  * [Multiplication function](Exercises/pseudocode/mult.txt)-->
   
 ## Day Three: Javascript
 
@@ -46,7 +46,7 @@ Slides, examples, and exercises for LaunchCode's Hello, World! course.
   * [Math function](Examples/JavaScript/mathFunction.js)
   * [Max function](Examples/JavaScript/maxFunction.js)
 
-* Exercises:
+<!--* Exercises:
 
   * [Telling a story with variables](Exercises/JavaScript/story.js)
   * [Swapping values](Exercises/JavaScript/swap.js)
@@ -54,4 +54,4 @@ Slides, examples, and exercises for LaunchCode's Hello, World! course.
   * [Fibonacci sequence](Exercises/JavaScript/fibonacci.js)
   * [FizzBuzz](Exercises/JavaScript/fizzbuzz.js)
   * [Fibonacci as a function](Exercises/JavaScript/fibonaccifunc.js)
-  * [Multiplication function](Exercises/JavaScript/mult.js)
+  * [Multiplication function](Exercises/JavaScript/mult.js)-->
