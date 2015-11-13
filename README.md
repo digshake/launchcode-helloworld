@@ -18,10 +18,11 @@ Slides, examples, and exercises for LaunchCode's Hello, World! course.
   * [Max finder with equals](Examples/PseudoCode/MaxWithEquals.txt)
   * [Max finder with nested ifs](Examples/PseudoCode/MaxNested.txt)
   * [Loops](Examples/PseudoCode/Loops.txt)
+  * [More Loops](Examples/PseudoCode/forLoopExample.txt)
   * [Math function](Examples/PseudoCode/mathFunction.txt)
   * [Max function](Examples/PseudoCode/maxFunction.txt)
 
-<!--* Exercises:
+  * Exercises:
 
   * [Telling a story with variables](Exercises/pseudocode/story.txt)
   * [Swapping values](Exercises/pseudocode/swap.txt)
@@ -29,7 +30,7 @@ Slides, examples, and exercises for LaunchCode's Hello, World! course.
   * [Fibonacci sequence](Exercises/pseudocode/fibonacci.txt)
   * [FizzBuzz](Exercises/pseudocode/fizzbuzz.txt)
   * [Fibonacci as a function](Exercises/pseudocode/fibonaccifunc.txt)
-  * [Multiplication function](Exercises/pseudocode/mult.txt)-->
+  * [Multiplication function](Exercises/pseudocode/mult.txt)
   
 ## Day Three: Javascript
 

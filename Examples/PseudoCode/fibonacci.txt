@@ -1,0 +1,27 @@
+previousValue = 1
+previousPreviousValue = 0
+print previousPreviousValue
+print previousValue
+for x = 2; x < 50; x = x + 1
+	nextValue = previousValue + previousPreviousValue
+	print nextValue
+	previousPreviousValue = previousValue
+	previousValue = nextValue
+	
+
+pV = 1
+ppV = 0
+print ppV (0)
+print pV (1)
+x = 2
+x < 50
+nV = pV + ppV (1)
+print nV (1)
+ppV = pV (1)
+pV = nV (1)
+x = x + 1 (3)
+x < 50
+nV = pV + ppV (2)
+print nV
+ppV = pV(1)
+pV = nV (2)

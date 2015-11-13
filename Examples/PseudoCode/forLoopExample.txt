@@ -1,0 +1,18 @@
+for x = 2; y < 10; x = x + 3
+	y = x * 2
+	print x
+	print y
+	
+	
+x = 2
+y < 10;
+y = x * 2 (4)
+print x (2)
+print y (4)
+x = x + 3 (5)
+y < 10
+y = x * 2 (10)
+print x (5)
+print y (10)
+x = x + 3 (8)
+y < 10 
