@@ -1,0 +1,5 @@
+michael = 30
+sally = 2 * michael
+bill = sally * 3 / 4
+rachel = bill - 52
+average = michael + sally + bill + rachel / 4

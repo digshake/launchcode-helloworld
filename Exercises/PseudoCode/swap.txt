@@ -1,0 +1,4 @@
+if y is greater than x
+	temp = x
+	x = y
+	y = temp
