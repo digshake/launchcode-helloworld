@@ -24,13 +24,13 @@ Slides, examples, and exercises for LaunchCode's Hello, World! course.
 
 * Exercises:
 
-  * [Telling a story with variables](Exercises/pseudocode/story.txt)
-  * [Swapping values](Exercises/pseudocode/swap.txt)
-  * [Loop exercises](Exercises/pseudocode/loopexercises.txt)
-  * [Fibonacci sequence](Exercises/pseudocode/fibonacci.txt)
-  * [FizzBuzz](Exercises/pseudocode/fizzbuzz.txt)
-  * [Fibonacci as a function](Exercises/pseudocode/fibonaccifunc.txt)
-  * [Multiplication function](Exercises/pseudocode/mult.txt)
+  * [Telling a story with variables](Exercises/PseudoCode/story.txt)
+  * [Swapping values](Exercises/PseudoCode/swap.txt)
+  * [Loop exercises](Exercises/PseudoCode/loopexercises.txt)
+  * [Fibonacci sequence](Exercises/PseudoCode/fibonacci.txt)
+  * [FizzBuzz](Exercises/PseudoCode/fizzbuzz.txt)
+  * [Fibonacci as a function](Exercises/PseudoCode/fibonaccifunc.txt)
+  * [Multiplication function](Exercises/PseudoCode/mult.txt)
   
 ## Day Three: Javascript
 
