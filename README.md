@@ -22,7 +22,7 @@ Slides, examples, and exercises for LaunchCode's Hello, World! course.
   * [Math function](Examples/PseudoCode/mathFunction.txt)
   * [Max function](Examples/PseudoCode/maxFunction.txt)
 
-  * Exercises:
+* Exercises:
 
   * [Telling a story with variables](Exercises/pseudocode/story.txt)
   * [Swapping values](Exercises/pseudocode/swap.txt)
