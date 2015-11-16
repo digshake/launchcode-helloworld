@@ -58,3 +58,11 @@ Slides, examples, and exercises for LaunchCode's Hello, World! course.
   * [FizzBuzz](Exercises/JavaScript/fizzbuzz.js)
   * [Fibonacci as a function](Exercises/JavaScript/fibonaccifunc.js)
   * [Multiplication function](Exercises/JavaScript/mult.js)-->
+  
+## Day Four: Pong
+
+* [Slide](Slides/pong.pdf)
+
+* Examples:
+
+	* [Starter code for pong](https://jsfiddle.net/dsshook/uh70vax8/)
