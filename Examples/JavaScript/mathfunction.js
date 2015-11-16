@@ -2,7 +2,7 @@ function f(x) {
 	return 3 * x + 2;
 }
 
-document.write(f(7) + "<br>");
+window.alert(f(7));
 var y = 200;
 var z = f(y);
-document.write(z);
+window.alert(z);

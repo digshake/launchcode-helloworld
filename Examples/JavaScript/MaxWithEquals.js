@@ -1,16 +1,15 @@
 var max;
 if (x > y) {
 	max = x;
-	document.write("x is bigger");
+	window.alert("x is bigger");
 }
 if(x == y) {
 	max = y;
-	document.write("They are the same");
+	window.alert("They are the same");
 }
 if(x < y) {
 	max = y;
-	document.write("y is bigger");
+	window.alert("y is bigger");
 }
-document.write("<br>");
-document.write("max is " + max);
+window.alert("max is " + max);
 
