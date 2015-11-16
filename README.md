@@ -61,7 +61,7 @@ Slides, examples, and exercises for LaunchCode's Hello, World! course.
   
 ## Day Four: Pong
 
-* [Slide](Slides/pong.pdf)
+* [Slides](Slides/pong.pdf)
 
 * Examples:
 
