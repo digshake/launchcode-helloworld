@@ -49,15 +49,15 @@ Slides, examples, and exercises for LaunchCode's Hello, World! course.
   * [Math function](Examples/JavaScript/mathfunction.js)
   * [Max function](Examples/JavaScript/maxFunction.js)
 
-<!--* Exercises:
+* Exercises:
 
-  * [Telling a story with variables](Exercises/JavaScript/story.js)
-  * [Swapping values](Exercises/JavaScript/swap.js)
-  * [Loop exercises](Exercises/JavaScript/loopexercises.js)
-  * [Fibonacci sequence](Exercises/JavaScript/fibonacci.js)
-  * [FizzBuzz](Exercises/JavaScript/fizzbuzz.js)
-  * [Fibonacci as a function](Exercises/JavaScript/fibonaccifunc.js)
-  * [Multiplication function](Exercises/JavaScript/mult.js)-->
+  * [Telling a story with variables](Exercises/javascript/story.js)
+  * [Swapping values](Exercises/javascript/swap.js)
+  * [Loop exercises](Exercises/javascript/loopexercises.js)
+  * [Fibonacci sequence](Exercises/javascript/fibonacci.js)
+  * [FizzBuzz](Exercises/javascript/fizzbuzz.js)
+  * [Fibonacci as a function](Exercises/javascript/fibonaccifunc.js)
+  * [Multiplication function](Exercises/javascript/mult.js)
   
 ## Day Four: Pong
 
