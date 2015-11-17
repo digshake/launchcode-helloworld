@@ -1,33 +1,33 @@
 //Relational operators
-window.alert("3 > 4: " + (3 > 4) );
-window.alert("3.5 < 7: " + (3.5 < 7) );
+console.log("3 > 4: " + (3 > 4) );
+console.log("3.5 < 7: " + (3.5 < 7) );
 
-window.alert("3 == 3: " + (3 == 3) );
+console.log("3 == 3: " + (3 == 3) );
 //Why not this?
 //3 = 3;
 
-window.alert("3 != 3: " + (3 != 3) );
-window.alert("2 <= 1 + 1: " + (2 <= 1 + 1) );
+console.log("3 != 3: " + (3 != 3) );
+console.log("2 <= 1 + 1: " + (2 <= 1 + 1) );
 
 //Logical operators:
 var p = true;
 var q = false;
 
 //Not:
-window.alert("Not true: " + !p );
-window.alert("Not false: " + !q );
+console.log("Not true: " + !p );
+console.log("Not false: " + !q );
 
 //And:
-window.alert("true && true: " + (p && p) );
-window.alert("true && false: " + (p && q) );
-window.alert("false && true: " + (q && p) );
-window.alert("false && false: " + (q && q) );
+console.log("true && true: " + (p && p) );
+console.log("true && false: " + (p && q) );
+console.log("false && true: " + (q && p) );
+console.log("false && false: " + (q && q) );
 
 //Or
-window.alert("true || true: " + (p || p) );
-window.alert("true || false: " + (p || q) );
-window.alert("false || true: " + (q || p) );
-window.alert("false || false: " + (q || q) );
+console.log("true || true: " + (p || p) );
+console.log("true || false: " + (p || q) );
+console.log("false || true: " + (q || p) );
+console.log("false || false: " + (q || q) );
 
 //Exercises: what is the output of the following?
 

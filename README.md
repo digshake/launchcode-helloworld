@@ -34,7 +34,7 @@ Slides, examples, and exercises for LaunchCode's Hello, World! course.
   
 ## Day Three: Javascript
 
-* All examples and exercises can be run using [JSFiddle](https://jsfiddle.net/)
+* All examples and exercises can be run using [jsbin](http://jsbin.com)
 
 * [Slides](Slides/javascript.pdf)
 
