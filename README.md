@@ -66,3 +66,4 @@ Slides, examples, and exercises for LaunchCode's Hello, World! course.
 * Examples:
 
 	* [Starter code for pong](https://jsfiddle.net/dsshook/uh70vax8/)
+	* [Completed pong](http://jsfiddle.net/dsshook/0Lj82xqm/)
