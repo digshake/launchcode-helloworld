@@ -9,6 +9,7 @@ for x = 2; x < 50; x = x + 1
 	previousValue = nextValue
 	
 
+The list below shows the step by step execution of this code:
 pV = 1
 ppV = 0
 print ppV (0)

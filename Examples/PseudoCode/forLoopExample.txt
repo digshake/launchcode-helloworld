@@ -3,7 +3,7 @@ for x = 2; y < 10; x = x + 3
 	print x
 	print y
 	
-	
+The following is a list of steps showing how this loop is executed:
 x = 2
 y < 10;
 y = x * 2 (4)
